@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Vehicle",
+			"Path": "G:\\Git\\EU4_Vehicle\\Vehicle\\Source\\Vehicle.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "VehicleEditor",
+			"Path": "G:\\Git\\EU4_Vehicle\\Vehicle\\Source\\VehicleEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

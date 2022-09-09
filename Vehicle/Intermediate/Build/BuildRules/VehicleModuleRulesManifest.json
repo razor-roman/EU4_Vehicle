@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"G:\\Git\\EU4_Vehicle\\Vehicle\\Source\\Vehicle\\Vehicle.Build.cs",
+		"G:\\Git\\EU4_Vehicle\\Vehicle\\Source\\Vehicle.Target.cs",
+		"G:\\Git\\EU4_Vehicle\\Vehicle\\Source\\VehicleEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}
